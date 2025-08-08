@@ -14,10 +14,9 @@ O projeto foi construído em Python, com foco no uso de bibliotecas voltadas à 
 - **Pandas** – manipulação e análise de dados
 - **Matplotlib** – criação de gráficos estáticos
 - **Seaborn** – visualização de dados estatísticos
-- **Jupyter Notebook** (ou script `.py`) – ambiente de desenvolvimento
-- **CSV** – fonte de dados
+- **CSV** – fonte de dados tratados no Google Colab
 
 > As dependências estão listadas no arquivo `requirements.txt`.
 
 👤 Autora
-- Renata Klaine
+Renata Klaine
